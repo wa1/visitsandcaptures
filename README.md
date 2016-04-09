@@ -1,7 +1,7 @@
 visitsandcaptures
 =================
 
-just a basic plugin for keeping track of which portals you have visited and captured.
+just a basic plugin (built on the existing bookmarks plugin) for keeping track of which portals you have visited and captured.
 
 Basic explanation of the logic of how the visit and cap statuses can affect each other:
 ===============================
